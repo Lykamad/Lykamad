@@ -14,5 +14,5 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lykamad/Lykamad/output/snake.svg" alt="Snake animation" />
+
 
